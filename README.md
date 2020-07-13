@@ -1,1 +1,3 @@
 # TEST_OPEN_RESOURCE
+
+'屑'
